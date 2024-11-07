@@ -1,0 +1,7 @@
+.error{
+    padding: 0.5rem;
+    background-color: #ff0000;
+    color: #fff;
+    transition-duration: 0.4s;
+    border-radius: 10px;
+}
